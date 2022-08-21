@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/weida/static/css/main.fc65b123.css",
-    "main.js": "/weida/static/js/main.9212a5a9.js",
+    "main.js": "/weida/static/js/main.5b58729e.js",
     "index.html": "/weida/index.html",
     "static/media/default.less": "/weida/static/media/default.003f90b383291c3b90da.less",
     "static/media/index.less": "/weida/static/media/index.512735b3dccd7d4b3088.less",
     "main.fc65b123.css.map": "/weida/static/css/main.fc65b123.css.map",
-    "main.9212a5a9.js.map": "/weida/static/js/main.9212a5a9.js.map"
+    "main.5b58729e.js.map": "/weida/static/js/main.5b58729e.js.map"
   },
   "entrypoints": [
     "static/css/main.fc65b123.css",
-    "static/js/main.9212a5a9.js"
+    "static/js/main.5b58729e.js"
   ]
 }
