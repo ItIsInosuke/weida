@@ -1,15 +1,20 @@
 {
   "files": {
     "main.css": "/weida/static/css/main.fc65b123.css",
-    "main.js": "/weida/static/js/main.5b58729e.js",
+    "main.js": "/weida/static/js/main.c801786e.js",
+    "static/media/WZ3.jpg": "/weida/static/media/WZ3.f4a8dd81ca4e432ba77d.jpg",
+    "static/media/logo.png": "/weida/static/media/logo.05444c505d9c3ef2ce84.png",
+    "static/media/TB1.png": "/weida/static/media/TB1.6819d8ba3bec1d2990c4.png",
+    "static/media/TB3.png": "/weida/static/media/TB3.6642b8aa6ed980d06cff.png",
+    "static/media/TB2.png": "/weida/static/media/TB2.be71c9f5db95208befd6.png",
     "index.html": "/weida/index.html",
     "static/media/default.less": "/weida/static/media/default.003f90b383291c3b90da.less",
     "static/media/index.less": "/weida/static/media/index.512735b3dccd7d4b3088.less",
     "main.fc65b123.css.map": "/weida/static/css/main.fc65b123.css.map",
-    "main.5b58729e.js.map": "/weida/static/js/main.5b58729e.js.map"
+    "main.c801786e.js.map": "/weida/static/js/main.c801786e.js.map"
   },
   "entrypoints": [
     "static/css/main.fc65b123.css",
-    "static/js/main.5b58729e.js"
+    "static/js/main.c801786e.js"
   ]
 }
