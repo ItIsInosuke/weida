@@ -1,15 +1,16 @@
 import styled from "styled-components";
 
-export const Container = styled.div`
+export const Container = styled.img`
+display: inline-block;
   /* display: inline-block; */
   width: 3800px;
   height: 1800px;
   background-size: cover;
-  background:url(../../images/WZ3.jpg);
+  /* background:url(../../images/WZ3.jpg); */
   @media screen and (max-width: 1000px) {
     height: 2800px;
     width: 1000px;
-    background: url(../../images/WZ.jpg);
+    background: url(../images/WZ.jpg);
     overflow: hidden;
   }
 `;

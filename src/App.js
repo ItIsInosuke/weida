@@ -10,12 +10,12 @@ function App() {
   return (
     <BrowserRouter basename="/weida">
       <Routes>
-        <Route exact path="/" element={<HomePage />} />
-        <Route path="/home" exact element={<HomePage />} />
-        <Route path="/pictures" exact element={<Pictures/>}/>
-        <Route path="/portpage01" exact element={<PortPage01/>}/>
-        <Route path="/portpage02" exact element={<PortPage02/>}/>
-        <Route path="/portpage03" exact element={<PortPage03/>}/>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/home"  element={<HomePage />} />
+        <Route path="/pictures"  element={<Pictures/>}/>
+        <Route path="/portpage01"  element={<PortPage01/>}/>
+        <Route path="/portpage02"  element={<PortPage02/>}/>
+        <Route path="/portpage03"  element={<PortPage03/>}/>
       </Routes>
     </BrowserRouter>
   );

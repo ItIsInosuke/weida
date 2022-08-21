@@ -3,7 +3,9 @@ import { ButtonWrapper } from "./SelftButton.style";
 import { Carousel } from "antd";
 import "antd/lib/carousel/style";
 import "antd/dist/antd.min.css";
-
+import BtnImg01 from "../../src/images/TB1.png"
+import BtnImg02 from "../../src/images/TB2.png"
+import BtnImg03 from "../../src/images/TB3.png"
 
 const SelftButton = () => (
   <ButtonWrapper>
@@ -21,18 +23,18 @@ const SelftButton = () => (
       }}
     >
       <div>
-        <a href="/portpage01">
-          <img className="img" src="../../images/TB1.png"></img>
+        <a href="/weida/portpage01">
+          <img className="img" src={BtnImg01}></img>
         </a>
       </div>
       <div>
-        <a href="/portpage02">
-          <img className="img" src="../../images/TB2.png"></img>
+        <a href="/weida/portpage02">
+          <img className="img" src={BtnImg02}></img>
         </a>
       </div>
       <div>
-        <a href="/portpage03">
-          <img className="img" src="../../images/TB3.png"></img>
+        <a href="/weida/portpage03">
+          <img className="img" src={BtnImg03}></img>
         </a>
       </div>
     </Carousel>
